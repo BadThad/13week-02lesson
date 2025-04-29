@@ -1,9 +1,9 @@
-# Player Activity Tracker - Node.js + PostgreSQL + Docker
+# 🎮 Player Activity Tracker - Node.js + PostgreSQL + Docker
 
 This project tracks players, the games they play and their scores using a PostgreSQL database,
 served with a Node.js/Express backend and managed through Docker and pgAdmin.
 
-## Technologies Used
+## 🔧 Technologies Used
 
 - **Node.js** + **Express.js** (API Server)
 - **PostgreSQL** (Relational Database)
@@ -12,7 +12,7 @@ served with a Node.js/Express backend and managed through Docker and pgAdmin.
 - **SQL** (Schema, seed data, and queries)
 - **VS Code** + **SQLTools** (Query and dev)
 
-## Project Structure
+## 📂 Project Structure
 
 | File                  | Purpose
 |-----------------------|------------------------------------------
@@ -22,7 +22,7 @@ served with a Node.js/Express backend and managed through Docker and pgAdmin.
 | `seed.sql`            | SQL file to insert test data.
 | `README.md`           | This documention!
 
-## API Endpoints
+## 👉 API Endpoints
 
 | Method                | Endpoint              | Description
 |-----------------------|-----------------------|--------------------------------
